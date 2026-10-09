@@ -27,17 +27,17 @@ type = "page"
 target = "publications"
 href = "/publications"
 
-[[navigation]]
-title = "教学"
-type = "page"
-target = "teaching"
-href = "/teaching"
+# [[navigation]]
+# title = "教学"
+# type = "page"
+# target = "teaching"
+# href = "/teaching"
 
-[[navigation]]
-title = "奖项"
-type = "page"
-target = "awards"
-href = "/awards"
+# [[navigation]]
+# title = "奖项"
+# type = "page"
+# target = "awards"
+# href = "/awards"
 
 [[navigation]]
 title = "服务"
